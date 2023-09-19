@@ -1,0 +1,22 @@
+div#dateTime {
+
+    font-size: 40px;
+    font-weight: bold;
+    border: 2px solid;
+    background: #578af3;
+    padding: 10px 20px;
+    margin: 0 auto;
+    width: fit-content;
+    color: #fff;
+    border-radius: 6px;
+}
+
+h2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-align: center; */
+    /* margin: 0 auto; */
+    margin-left: 336px;
+    font-size: 30px;
+    color: red;
+}
